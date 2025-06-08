@@ -4,9 +4,9 @@
 - 💻 I'm a software engineer with a passion for blending technology, art, and science. I enjoy developing innovative software solutions, delving into artificial intelligence🤖, and actively contributing to open-source projects.
 - 📚 I'm currently advancing my knowledge in machine learning, ☁️cloud computing, and enhancing my skills in React.js.
 - 🎯I'm eager to collaborate on innovative projects that make a positive impact, especially in education, healthcare, environmental sustainability, and other transformative fields.
--  💬  You can reach me via email at dudleykimani331@gmail.com or connect with me on LinkedIn [here](https://).
+-  💬  You can reach me via email at allankipr6@gmail.com or connect with me on LinkedIn [here](https://).
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dudley-hue&label=Profile%20views&color=0e75b6&style=flat" alt="Dudley-hue" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=all3n0&label=Profile%20views&color=0e75b6&style=flat" alt="Dudley-hue" /> </p>
 
 Feel free to check out my repositories and don't hesitate to reach out if you'd like to collaborate on something exciting!
 
