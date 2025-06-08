@@ -1,4 +1,3 @@
-![welcomeee](https://github.com/mendarrr/mendarrr/assets/161917456/52802a87-c278-4c69-988a-486b1d7e4f00)
 
 <h1 align="center">🌟 Welcome to My GitHub!</h1>
 
@@ -6,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/e607739e-2f07-456f-b482-a091e253a55e" height="250"/>
 </p>
 
-<h2 align="center">👋 Hello, I'm Abby (Allan Kiprop)</h2>
+<h2 align="center">👋 Hello, I'm Allan </h2>
 
 💻 A passionate **Full Stack Developer** and **Software Engineer** who blends art, science, and code to create high-impact, intuitive applications. I specialize in:
 
@@ -59,16 +58,16 @@ I'm all about building with **purpose** — from education and health to environ
 ### 📫 Let's Connect
 
 - Email: [allankipr6@gmail.com](mailto:allankipr6@gmail.com)  
-- LinkedIn: [abby-sarah-6739a92ba](https://linkedin.com/in/abby-sarah-6739a92ba)
+- LinkedIn: [allan-kiprop-51767431a]([https://linkedin.com/in/abby-sarah-6739a92ba](https://www.linkedin.com/in/allan-kiprop-51767431a/))
 
 <div align="center">
   <a href="https://behance.net/abbysarah1"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=black"/></a>
-  <a href="https://instagram.com/abby._.menda"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a>
-  <a href="https://pinterest.com/mendarrr"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=black"/></a>
-  <a href="https://quora.com/profile/Abby-Sarah-7"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=black"/></a>
-  <a href="https://stackoverflow.com/users/25320734"><img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=black"/></a>
-  <a href="https://twitch.tv/mendarrrrrr"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=black"/></a>
-  <a href="https://twitter.com/mendarrrr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black"/></a>
+  <a href="https://instagram.com/allxn.js"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a>
+  <a href="https://pinterest.com/skeepscollection"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=black"/></a>
+<!--   <a href="https://quora.com/profile/Abby-Sarah-7"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=black"/></a> -->
+  <a href="https://stackoverflow.com/users/23949439/a-k"><img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=black"/></a>
+<!--   <a href="https://twitch.tv/mendarrrrrr"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=black"/></a> -->
+<!--   <a href="https://twitter.com/mendarrrr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black"/></a> -->
 </div>
 
 ---
